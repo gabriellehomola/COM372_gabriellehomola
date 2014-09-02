@@ -1,1 +1,1 @@
-This is Gabrielle Homola’s work in COM 372, Web Design. 
+
