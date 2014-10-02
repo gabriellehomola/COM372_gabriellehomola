@@ -25,7 +25,7 @@
 	<h1>About Gabrielle Homola<h/h1>
 	<h2>My education and skills</h2>
 </hgroup>
-<img src="images/other/299517_4839541942694_1265363894_n.jpg" />
+
 <div id="MainContent">
 <section id="BasicInformation" class="TopLevel">
 	<h3>Basic Information</h3>
@@ -39,7 +39,7 @@
 	</section>
 	<section id="Background">
 		<h4>Background</h4>
-		<p>this is one of my first websites and i am learning this in class
+		<p>this is one of my first websites and i am learning this in class <div id="headshot"<img src="images/other/299517_4839541942694_1265363894_n.jpg" alt="a visit to NYC"/> </div id>
 	</section>
 </section>
 <section id="Education" class="TopLevel">
